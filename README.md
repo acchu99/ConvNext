@@ -1,2 +1,2 @@
-# CSE-507---Intro-Digital-Image-Processing-Project
-CSE 507 - Intro Digital Image Processing Project
+# ConvNext
+Multi-label classifier using ConvNext architecture to classify diseases from NIH (Chest X-ray 14) dataset
